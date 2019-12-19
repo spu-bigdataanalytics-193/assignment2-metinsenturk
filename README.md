@@ -63,3 +63,7 @@ Submit is very easy! You just have to do two things.
 
 1. You have to do your latest commit before the deadline!
 2. After you finish, download a zip copy of your project, upload it to Blackboard!
+
+## Test Checking After Due Time
+
+Lorem ipsum sit amet.
